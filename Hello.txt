@@ -1,0 +1,1 @@
+"Bonjour"    # Working tree uniquement
